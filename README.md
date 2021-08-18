@@ -14,3 +14,29 @@ Scenario #3 - If you accidentally commit to master(main) branch instead of commi
 Scenario #4 - If you wanted to Delete your master(main) branch latest commit, the one you did not want to put in master(main) branch.
 
 Scenario #5 - You remember that you still need a file or a piece of code that was on your deleted commit, but already reset the commit --hard.
+
+# planet_fe
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
